@@ -1,0 +1,9 @@
+{
+  "lat_start": 10.0,
+  "lat_end": 40.0,
+  "lon_start": 100.0,
+  "lon_end": 130.0,
+  "nz": 20,
+  "data_quality": -12,
+  "scale_xy": 25
+}
